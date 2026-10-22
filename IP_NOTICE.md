@@ -1,9 +1,12 @@
 # 🛡️ Intellectual Property & Industrial Evaluation Notice
 
-**Project:** GLUEDIA 2.0 — Non-Invasive Triple-Modal Opto-Acoustic Glucose Monitoring Mixed-Signal ASIC & Probe Assembly  
-**Author:** Rama Durga Prasad Mallipudi  
-**Contact:** [rama.dp.mallipudi2006@gmail.com](mailto:rama.dp.mallipudi2006@gmail.com)  
-**Profile:** [ramadpmallipudi2006-droid](https://github.com/ramadpmallipudi2006-droid)
+**Project:** GLUEDIA 2.0 (AURA) — Non-Invasive Multi-Modal Biosensing Mixed-Signal SoC & Hardware Neural Fusion Engine  
+**Author:** MALLIPUDI RAMA DURGA PRASAD  
+**Email:** [rama.dp.mallipudi2006@gmail.com](mailto:rama.dp.mallipudi2006@gmail.com)  
+**Phone:** +91-8142148492  
+**LinkedIn:** [linkedin.com/in/rama-durga-prasad-1a43b4380](https://www.linkedin.com/in/rama-durga-prasad-1a43b4380)  
+**GitHub Profile:** [ramadpmallipudi2006-droid](https://github.com/ramadpmallipudi2006-droid)  
+**Location:** Vijayawada, Andhra Pradesh, India  
 
 ---
 
@@ -11,7 +14,7 @@
 This repository serves as an **Industrial Engineering Portfolio, Scientific Dossier, and Architectural Showcase** for medical device manufacturers, semiconductor design teams, biomedical investors, and recruitment committees.
 
 In order to protect patentable custom circuit topologies, trade secrets, and novel multi-modal opto-acoustic calibration architectures:
-1. **Verilog HDL RTL Source Modules** (Lock-In NCO/Mixer/CORDIC, Q8.8 Neural Network Accelerator, BioZ DDS Engine, Top-Level System Controller)
+1. **Verilog HDL RTL Source Modules** (GLUEDIA AURA 16-feature Q8.8 MLP Neural Fusion Engine, Lock-In NCO/Mixer/CORDIC, BioZ DDS Engine, Top-Level System Controller)
 2. **Transistor-Level SPICE Netlists** (Dual-Channel Optical TIA + DC Cancel DAC, Photoacoustic CSA + Pseudo-Resistors, Quadrature Demodulator)
 3. **Physical Silicon Layout Databases** (DRC/LVS-clean GDSII databases, Magic VLSI macros, LEF/DEF files)
 4. **Automated Physical Design, Synthesis, and DRC Verification Scripts**
@@ -31,4 +34,5 @@ Complete access to the full engineering repository—including synthesizable Sys
 
 For partnership, licensing, or career opportunities:
 - **Email:** [rama.dp.mallipudi2006@gmail.com](mailto:rama.dp.mallipudi2006@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rama-durga-prasad-1a43b4380](https://www.linkedin.com/in/rama-durga-prasad-1a43b4380)
 - **GitHub:** [@ramadpmallipudi2006-droid](https://github.com/ramadpmallipudi2006-droid)
